@@ -1,0 +1,8 @@
+# Dependency directory
+node_modules/
+
+# Build files
+build/
+
+### OSX ###
+.DS_Store
